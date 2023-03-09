@@ -10,3 +10,5 @@ Zjistěte délku řetězce pomocí funkce z knihovny `<string.h>`.
 V načteném textu nahraďte každý třetí znak podtržítkem.
 
 Upravený text vypište na standardní výstup.
+
+![img.png](img.png)
